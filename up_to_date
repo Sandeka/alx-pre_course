@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 touch up_to_date
 git pull origin
+=======
+git pull
+echo git pull> up_to_date
+>>>>>>> 3f69852d287efc0081b62ddc5c2aab3a20d81672
