@@ -1,2 +1,2 @@
-git pull
-echo git pull> up_to_date
+touch up_to_date
+git pull origin
